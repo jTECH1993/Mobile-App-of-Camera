@@ -3,4 +3,4 @@ def sum (a,b):
 
 print(sum (3,2))
 print("Changing of 2nd version")
-print ("neww data")
+print ("neww data")]
